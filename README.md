@@ -1,10 +1,10 @@
 # Hana Ghorbel
 
-## Data Engineer | Mathematician || Ingénieure de Données | Mathématicienne
+## Data Engineer | Mathematician || Ingénieure de données | Mathématicienne
 ---
 
 
-## 👩‍🏫  About Me
+## 👩‍🏫  About me
 
 I am **Hana Ghorbel**, a recent graduate with a Master’s degree in **Data Engineering**, currently seeking a junior Data Engineer position. I possess a strong aptitude for research, particularly in data and mathematics, which I enjoy applying through diverse personal projects. My versatility allows me to excel in various roles, including Data Engineer, Data Scientist, Data Analyst, and even Software Developer.
 
@@ -12,7 +12,7 @@ My academic background is a unique blend of expertise: I hold a Bachelor’s and
 
 You can also connect with me via [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hana-ghorbel-9200391a4/) or visit my [![portfolio](https://img.shields.io/badge/Portfolio-8A2BE2)](https://haghob.github.io/) for more details.
 
-## 👩‍🏫 À Propos de Moi
+## 👩‍🏫 À Propos de moi
 
 Je suis **Hana Ghorbel**, récemment diplômée d'un mastère en **Ingénierie des Données**, actuellement à la recherche d'un poste junior d'ingénieure de données. Je possède une forte aptitude pour la recherche, particulièrement dans les domaines des données et des mathématiques, que j'aime appliquer à travers divers projets personnels. Ma polyvalence me permet d'exceller dans différents rôles, notamment Data Engineer, Data Scientist, Data Analyst, et même développeuse logiciel.
 
@@ -26,7 +26,7 @@ Vous pouvez également me contacter via [![LinkedIn](https://img.shields.io/badg
 
 ---
 
-## Languages & Tools || Langages & Outils
+## Languages & tools || Langages & outils
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
@@ -51,7 +51,7 @@ Vous pouvez également me contacter via [![LinkedIn](https://img.shields.io/badg
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0F9D58?style=flat&logo=unrealengine&logoColor=white)
 
 
-## 📬 Let's Connect!
+## 📬 Let's connect!
 I'm primarily seeking junior Data Engineer positions, while also open to Data Scientist and Data Analyst roles that leverage my mathematical background and technical skills. Feel free to reach out with relevant opportunities!
 
 ## 📬 Connectons-nous !
