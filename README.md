@@ -1,12 +1,10 @@
 # 👋 Hi, I'm Hana Ghorbel!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Data+Engineer+%7C+Mathematician;Full+stack+developer;Transforming+Data+into+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Data+Engineer+%7C+Mathematician;Full+Stack+Developer;Transforming+Data+into+Insights" alt="Typing SVG" />
 </div>
 
   
-
----
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hana-ghorbel-9200391a4/)
