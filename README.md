@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About me
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -32,7 +32,7 @@ Recently graduated with a **Master's in Data Engineering**, I combine unique exp
 
 ---
 
-## 💼 Recent Professional Experience
+## 💼 Recent professional experience
 
 **Data Analyst & Data Scientist** @ Enedis (Jan 2024 - Nov 2024)
 - 📊 ETL pipeline development with Denodo (8 sources, -60% processing time)
@@ -46,7 +46,7 @@ Recently graduated with a **Master's in Data Engineering**, I combine unique exp
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech stack
 
 <div align="center">
 
@@ -71,7 +71,7 @@ Recently graduated with a **Master's in Data Engineering**, I combine unique exp
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-### Web Development
+### Web development
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -87,16 +87,16 @@ Recently graduated with a **Master's in Data Engineering**, I combine unique exp
 
 ---
 
-## 📊 Featured Projects
+## 📊 Featured projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🌾 AgriFlow - Agricultural Prediction System
+### 🌾 AgriFlow - Agricultural prediction system
 ML/IoT platform integrating MQTT/Kafka, Prometheus/Grafana to optimize agricultural yields
 
-**Tech Stack:**
+**Tech stack:**
 - Python, Streamlit, InfluxDB
 - Docker, Machine Learning
 - Real-time monitoring + predictions
@@ -107,7 +107,7 @@ ML/IoT platform integrating MQTT/Kafka, Prometheus/Grafana to optimize agricultu
 ### 🔐 RSA Cryptanalysis
 Research framework for statistical analysis of cryptographic vulnerabilities
 
-**Tech Stack:**
+**Tech stack:**
 - Python, NumPy
 - Statistical Analysis
 - Academic research project
@@ -120,7 +120,7 @@ Research framework for statistical analysis of cryptographic vulnerabilities
 ### 📚 DataGuard Monte Carlo
 Open-source framework for data validation and quality control
 
-**Tech Stack:**
+**Tech stack:**
 - Python
 - Monte Carlo Simulations
 - Data Quality Management
@@ -128,7 +128,7 @@ Open-source framework for data validation and quality control
 </td>
 <td width="50%">
 
-### 🛒 Full-Stack Applications (x4)
+### 🛒 Full-stack applications (x4)
 E-commerce, educational platform, sports management, scientific aggregator
 
 **Features:**
@@ -142,7 +142,7 @@ E-commerce, educational platform, sports management, scientific aggregator
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub stats
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=haghob&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
@@ -186,16 +186,15 @@ E-commerce, educational platform, sports management, scientific aggregator
 
 ## 📫 Get In Touch
 
-<div align="center">
 
-💼 **Opportunities Sought**: Junior Data Engineer | Data Scientist | Data Analyst
+
+💼 **Opportunities sought**: Junior Data Engineer | Data Scientist | Data Analyst
 
 📧 **Email**: [hanaghorbel@outlook.com](mailto:hanaghorbel@outlook.com)  
 📍 **Location**: Tunis, Tunisia  
 🔗 **LinkedIn**: [hana-ghorbel](https://www.linkedin.com/in/hana-ghorbel-9200391a4/)  
 🌐 **Portfolio**: [haghob.github.io](https://haghob.github.io/)
 
-</div>
 
 ---
 
@@ -203,7 +202,7 @@ E-commerce, educational platform, sports management, scientific aggregator
   
 ### ⭐ Feel free to explore my repositories and reach out for collaboration!
 
-![Profile Views](https://komarev.com/ghpvc/?username=haghob&color=blueviolet&style=flat-square&label=Profile+Views)
+![Profile views](https://komarev.com/ghpvc/?username=haghob&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
 
