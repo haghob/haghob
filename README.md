@@ -28,7 +28,7 @@ Recently graduated with a **Master's in Data Engineering**, I combine unique exp
 
 ---
 
-## 💼 Recent professional experience
+## 💼 Recent Professional Experience
 
 **Data Analyst & Data Scientist** @ Enedis (Jan 2024 - Nov 2024)
 - 📊 ETL pipeline development with Denodo (8 sources, -60% processing time)
@@ -132,24 +132,18 @@ Agricultural e-commerce, gamified educational platform, sports management, scien
 
 ## 📊 Coding Activity
 
-<div align="center">
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=haghob&theme=radical&hide_border=true" alt="Wakatime Stats" />
-
-</div>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/haghob/haghob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haghob/haghob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haghob/haghob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/haghob/haghob/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
