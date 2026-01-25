@@ -48,8 +48,6 @@ Recently graduated with a **Master's in Data Engineering**, I combine unique exp
 
 ## 🛠️ Tech stack
 
-<div align="center">
-
 ### Data Engineering & Analytics
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -82,8 +80,6 @@ Recently graduated with a **Master's in Data Engineering**, I combine unique exp
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-
-</div>
 
 ---
 
@@ -171,7 +167,7 @@ E-commerce, educational platform, sports management, scientific aggregator
     <img alt="github-snake" src="https://raw.githubusercontent.com/haghob/haghob/output/github-snake.svg" />
   </picture>
 </div>
----
+
 
 ## 🌐 Languages
 
