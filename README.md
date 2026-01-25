@@ -141,19 +141,12 @@ E-commerce, educational platform, sports management, scientific aggregator
 ## 📈 GitHub stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=haghob&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=haghob&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haghob&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haghob&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haghob&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=haghob&theme=radical&hide_border=true&area=true&custom_title=Contribution%20Graph" />
-</div>
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=haghob&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=haghob&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
 </div>
 
 ---
