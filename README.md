@@ -105,11 +105,9 @@ E-commerce agricole, plateforme éducative gamifiée, gestion sportive, agrégat
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haghob&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haghob&show_icons=true&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haghob&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=haghob&theme=radical&hide_border=true)
 
 </div>
 
