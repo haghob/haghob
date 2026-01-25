@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Hana Ghorbel!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Data+Engineer+%7C+Mathematician;Full+Stack+Developer;Transforming+Data+into+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Data+Engineer+%7C+Mathematician;Full+stack+developer;Transforming+Data+into+Insights" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -171,9 +171,6 @@ E-commerce, educational platform, sports management, scientific aggregator
     <img alt="github-snake" src="https://raw.githubusercontent.com/haghob/haghob/output/github-snake.svg" />
   </picture>
 </div>
-
-> **Note:** The snake animation will appear once you set up the GitHub Action workflow (see instructions below)
-
 ---
 
 ## 🌐 Languages
