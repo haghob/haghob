@@ -1,48 +1,46 @@
-# 👋 Hi, I'm Hana Ghorbel!
+# 👋 Salut, je suis Hana Ghorbel !
 
 <div align="center">
   
-### Data Engineer | Mathematician | Full Stack Developer
+### Data Engineer | Mathématicienne | Développeuse Full Stack
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hana-ghorbel-9200391a4/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://haghob.github.io/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanaghorbel@outlook.com)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Data+Engineer+%7C+ML+Enthusiast;Mathematics+%2B+Computer+Science;Building+Scalable+Data+Solutions;Passionate+About+AI+%26+Analytics" alt="Typing SVG" />
-
 </div>
 
 ---
 
-## 🚀 About Me
+## 🚀 À propos de moi
 
-Recently graduated with a **Master's in Data Engineering**, I combine unique expertise in mathematics, data engineering, and software development. My multidisciplinary academic background (Mathematics + Computer Science + Data Engineering) allows me to approach complex problems with deep analytical perspective.
+Récemment diplômée d'un **Master en Ingénierie des Données**, je combine une expertise unique en mathématiques, data engineering et développement logiciel. Mon parcours académique multidisciplinaire (Mathématiques + Informatique + Data Engineering) me permet d'aborder les problèmes complexes avec une perspective analytique approfondie.
 
-**What drives me**: Transforming raw data into actionable insights and building robust, scalable data systems.
+**Ce qui me passionne** : Transformer des données brutes en insights actionnables et construire des systèmes data robustes et scalables.
 
-### 🎯 Currently
-- 🔭 Working on full-stack projects with ML/IoT integration
-- 🌱 Deepening my DevOps and cloud architecture skills (AWS)
-- 💼 **Actively seeking**: Junior Data Engineer positions
-- 🤝 Open to opportunities: Data Scientist | Data Analyst | Backend Developer
+### 🎯 Actuellement
+- 🔭 Je travaille sur des projets full-stack avec intégration ML/IoT
+- 🌱 J'approfondis mes compétences en DevOps et architecture cloud (AWS)
+- 💼 **Recherche active** : Poste de Data Engineer Junior
+- 🤝 Ouverte aux opportunités : Data Scientist | Data Analyst | Backend Developer
 
 ---
 
-## 💼 Recent Professional Experience
+## 💼 Expérience Professionnelle Récente
 
 **Data Analyst & Data Scientist** @ Enedis (Jan 2024 - Nov 2024)
-- 📊 ETL pipeline development with Denodo (8 sources, -60% processing time)
-- 📈 Power BI dashboards (-40% KPI access time for 200+ users)
-- 🤖 RPA automation with UiPath (20h saved/week)
+- 📊 Développement de pipelines ETL avec Denodo (8 sources, -60% temps de traitement)
+- 📈 Tableaux de bord Power BI (-40% temps d'accès aux KPI pour 200+ utilisateurs)
+- 🤖 Automatisation RPA avec UiPath (20h économisées/semaine)
 
 **Data Scientist & Data Engineer** @ Worldline (Sep 2022 - Nov 2023)
-- 🧠 NLP pipelines with BERT (100K+ documents, 88% accuracy)
-- ⚡ Python ETL scripts (10K documents/day, 95% OCR accuracy)
-- 📚 LLM library (200+ prompts, +40% efficiency)
+- 🧠 Pipelines NLP avec BERT (100K+ documents, 88% précision)
+- ⚡ Scripts ETL Python (10K documents/jour, 95% précision OCR)
+- 📚 Bibliothèque LLM (200+ prompts, +40% efficacité)
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack Technique
 
 ### Data Engineering & Analytics
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -65,14 +63,13 @@ Recently graduated with a **Master's in Data Engineering**, I combine unique exp
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-### Web Development
+### Développement Web
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Databases
+### Bases de Données
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -80,96 +77,67 @@ Recently graduated with a **Master's in Data Engineering**, I combine unique exp
 
 ---
 
-## 📊 Featured Projects
+## 📊 Projets Phares
 
-### 🌾 AgriFlow - Agricultural Prediction System
-ML/IoT platform integrating MQTT/Kafka, Prometheus/Grafana to optimize agricultural yields
-- **Tech**: Python, Streamlit, InfluxDB, Docker, Machine Learning
-- **Impact**: Real-time monitoring + optimized predictions
+### 🌾 AgriFlow - Système de Prédiction Agricole
+Plateforme ML/IoT intégrant MQTT/Kafka, Prometheus/Grafana pour optimiser les rendements agricoles
+- **Tech** : Python, Streamlit, InfluxDB, Docker, Machine Learning
+- **Impact** : Monitoring temps réel + prédictions optimisées
 
-### 🔐 RSA Cryptanalysis
-Research framework for statistical analysis of cryptographic vulnerabilities
-- **Tech**: Python, NumPy, Statistical Analysis
-- **Type**: Academic research project
+### 🔐 Cryptanalyse RSA
+Framework de recherche pour l'analyse statistique de vulnérabilités cryptographiques
+- **Tech** : Python, NumPy, Analyse statistique
+- **Type** : Projet de recherche académique
 
 ### 📚 DataGuard Monte Carlo
-Open-source framework for data validation and quality control
-- **Tech**: Python, Monte Carlo Simulations
-- **Usage**: Data Quality Management
+Framework open-source pour la validation et le contrôle qualité des données
+- **Tech** : Python, Simulations Monte Carlo
+- **Usage** : Data Quality Management
 
-### 🛒 Full-Stack Applications (x4)
-Agricultural e-commerce, gamified educational platform, sports management, scientific aggregator
-- **Tech**: React, Node.js, FastAPI, PostgreSQL, JWT
-- **Features**: Auth, gamification, bilingual FR/AR, D3.js/Plotly dashboards
+### 🛒 Applications Full-Stack (x4)
+E-commerce agricole, plateforme éducative gamifiée, gestion sportive, agrégateur scientifique
+- **Tech** : React, Node.js, FastAPI, PostgreSQL, JWT
+- **Features** : Auth, gamification, bilinguisme FR/AR, dashboards D3.js/Plotly
 
 ---
 
-## 📈 GitHub Stats & Activity
+## 📈 GitHub Stats
 
 <div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haghob&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=haghob&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haghob&layout=compact&theme=radical&hide_border=true)
 
-<img src="https://github-readme-stats.vercel.app/api?username=haghob&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=haghob&theme=radical&hide_border=true" alt="Contribution Graph" />
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haghob&layout=compact&theme=radical&hide_border=true&langs_count=8)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=haghob&theme=radical&hide_border=true)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🌐 Langues
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=haghob&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
+🇬🇧 **Anglais** - Professionnel (B2)  
+🇫🇷 **Français** - Courant (C1)  
+🇹🇳 **Arabe** - Natif
 
 ---
 
-## 📊 Coding Activity
+## 📫 Me contacter
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+💼 **Opportunités recherchées** : Data Engineer Junior | Data Scientist | Data Analyst
 
----
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haghob/haghob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haghob/haghob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/haghob/haghob/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-## 🌐 Languages
-
-🇬🇧 **English** - Professional (B2)  
-🇫🇷 **French** - Fluent (C1)  
-🇹🇳 **Arabic** - Native
-
----
-
-## 📫 Contact Me
-
-💼 **Looking for**: Junior Data Engineer | Data Scientist | Data Analyst
-
-📧 **Email**: hanaghorbel@outlook.com  
-📍 **Location**: Tunis, Tunisia  
-🔗 **LinkedIn**: [hana-ghorbel](https://www.linkedin.com/in/hana-ghorbel-9200391a4/)  
-🌐 **Portfolio**: [haghob.github.io](https://haghob.github.io/)
+📧 **Email** : hanaghorbel@outlook.com  
+📍 **Localisation** : Tunis, Tunisie  
+🔗 **LinkedIn** : [hana-ghorbel](https://www.linkedin.com/in/hana-ghorbel-9200391a4/)  
+🌐 **Portfolio** : [haghob.github.io](https://haghob.github.io/)
 
 ---
 
 <div align="center">
   
-### ⭐ Feel free to explore my repositories and reach out for collaboration!
+### ⭐ N'hésitez pas à explorer mes repositories et à me contacter pour collaborer !
 
-![Profile Views](https://komarev.com/ghpvc/?username=haghob&color=blueviolet&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=haghob&color=blueviolet&style=flat-square)
 
 </div>
