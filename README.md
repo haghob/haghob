@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-Recently graduated with a **master's in data engineering**, I combine unique expertise in mathematics, data engineering, and software development. My multidisciplinary academic background (Mathematics + Computer Science + Data Engineering) allows me to approach complex problems with deep analytical perspective.
+Recently graduated with a **Master's in Data Engineering**, I combine unique expertise in mathematics, data engineering, and software development. My multidisciplinary academic background (Mathematics + Computer Science + Data Engineering) allows me to approach complex problems with deep analytical perspective.
 
 **What drives me**: Transforming raw data into actionable insights and building robust, scalable data systems.
 
@@ -30,12 +30,12 @@ Recently graduated with a **master's in data engineering**, I combine unique exp
 
 ## 💼 Recent professional experience
 
-**Data Analyst & Data Scientist** @ Enedis
+**Data Analyst & Data Scientist** @ Enedis (Jan 2024 - Nov 2024)
 - 📊 ETL pipeline development with Denodo (8 sources, -60% processing time)
 - 📈 Power BI dashboards (-40% KPI access time for 200+ users)
 - 🤖 RPA automation with UiPath (20h saved/week)
 
-**Data Scientist & Data Engineer** @ Worldline
+**Data Scientist & Data Engineer** @ Worldline (Sep 2022 - Nov 2023)
 - 🧠 NLP pipelines with BERT (100K+ documents, 88% accuracy)
 - ⚡ Python ETL scripts (10K documents/day, 95% OCR accuracy)
 - 📚 LLM library (200+ prompts, +40% efficiency)
@@ -108,11 +108,11 @@ Agricultural e-commerce, gamified educational platform, sports management, scien
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=haghob&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=haghob&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=haghob&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=haghob&theme=redical&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=haghob&theme=radical&hide_border=true" alt="Contribution Graph" />
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haghob&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
