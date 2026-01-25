@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 Recently graduated with a **Master's in Data Engineering**, I combine unique expertise in mathematics, data engineering, and software development. My multidisciplinary academic background (Mathematics + Computer Science + Data Engineering) allows me to approach complex problems with deep analytical perspective.
 
@@ -48,100 +48,115 @@ Recently graduated with a **Master's in Data Engineering**, I combine unique exp
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ### Data Engineering & Analytics
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### Machine Learning & AI
-<p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-</p>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### DevOps & Cloud
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-</p>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 ### Web Development
-<p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-</p>
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
-</p>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+</div>
 
 ---
 
 ## 📊 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🌾 AgriFlow - Agricultural Prediction System
 ML/IoT platform integrating MQTT/Kafka, Prometheus/Grafana to optimize agricultural yields
-- **Tech**: Python, Streamlit, InfluxDB, Docker, Machine Learning
-- **Impact**: Real-time monitoring + optimized predictions
+
+**Tech Stack:**
+- Python, Streamlit, InfluxDB
+- Docker, Machine Learning
+- Real-time monitoring + predictions
+
+</td>
+<td width="50%">
 
 ### 🔐 RSA Cryptanalysis
 Research framework for statistical analysis of cryptographic vulnerabilities
-- **Tech**: Python, NumPy, Statistical Analysis
-- **Type**: Academic research project
+
+**Tech Stack:**
+- Python, NumPy
+- Statistical Analysis
+- Academic research project
+
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### 📚 DataGuard Monte Carlo
 Open-source framework for data validation and quality control
-- **Tech**: Python, Monte Carlo Simulations
-- **Usage**: Data Quality Management
+
+**Tech Stack:**
+- Python
+- Monte Carlo Simulations
+- Data Quality Management
+
+</td>
+<td width="50%">
 
 ### 🛒 Full-Stack Applications (x4)
-Agricultural e-commerce, gamified educational platform, sports management, scientific aggregator
-- **Tech**: React, Node.js, FastAPI, PostgreSQL, JWT
-- **Features**: Auth, gamification, FR/AR bilingual, D3.js/Plotly dashboards
+E-commerce, educational platform, sports management, scientific aggregator
+
+**Features:**
+- React, Node.js, FastAPI, PostgreSQL
+- Auth, gamification, bilingual FR/AR
+- D3.js/Plotly dashboards
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=haghob&theme=radical&hide_border=true)](https://git.io/streak-stats)
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=haghob&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=haghob&theme=radical&hide_border=true" />
+</div>
 
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haghob&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=haghob&theme=radical&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 </div>
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haghob&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haghob&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-</div>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=haghob&theme=radical&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<div align="center">
-  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=haghob&theme=radical&hide_border=true&area=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=haghob&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -156,6 +171,8 @@ Agricultural e-commerce, gamified educational platform, sports management, scien
     <img alt="github-snake" src="https://raw.githubusercontent.com/haghob/haghob/output/github-snake.svg" />
   </picture>
 </div>
+
+> **Note:** The snake animation will appear once you set up the GitHub Action workflow (see instructions below)
 
 ---
 
@@ -173,7 +190,7 @@ Agricultural e-commerce, gamified educational platform, sports management, scien
 
 💼 **Opportunities Sought**: Junior Data Engineer | Data Scientist | Data Analyst
 
-📧 **Email**: hanaghorbel@outlook.com  
+📧 **Email**: [hanaghorbel@outlook.com](mailto:hanaghorbel@outlook.com)  
 📍 **Location**: Tunis, Tunisia  
 🔗 **LinkedIn**: [hana-ghorbel](https://www.linkedin.com/in/hana-ghorbel-9200391a4/)  
 🌐 **Portfolio**: [haghob.github.io](https://haghob.github.io/)
