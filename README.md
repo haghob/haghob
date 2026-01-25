@@ -4,8 +4,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Data+Engineer+%7C+Mathematician;Full+stack+developer;Transforming+Data+into+Insights" alt="Typing SVG" />
 </div>
 
-<div align="center">
   
+
+---
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hana-ghorbel-9200391a4/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://haghob.github.io/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanaghorbel@outlook.com)
